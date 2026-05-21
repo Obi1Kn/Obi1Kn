@@ -1,16 +1,21 @@
-## Hi there 👋
+# Obaida Kotainy
 
-<!--
-**Obi1Kn/Obi1Kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-native systems for research, operations, monitoring, and proof-based execution.
 
-Here are some ideas to get you started:
+Current focus:
+- AI-assisted project operations
+- Local-first monitoring tools
+- Arabic-first dashboards and workflows
+- Research-to-output systems
+- Bitcoin / macro research infrastructure
+- Documentation and Git-based proof discipline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Principles:
+- Source of truth before output
+- Proof over claims
+- Human approval before automation
+- Scope discipline before execution
+- Systems that make complex work possible
+
+Most of my current work is private, local-first, or under active development.
+Public repositories here show selected proof, prototypes, and non-sensitive work.
