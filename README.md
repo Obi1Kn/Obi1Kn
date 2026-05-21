@@ -19,3 +19,4 @@ Principles:
 
 Most of my current work is private, local-first, or under active development.
 Public repositories here show selected proof, prototypes, and non-sensitive work.
+Recent work: building private local-first AI systems and public-safe prototypes across monitoring, research, and operational workflows.
